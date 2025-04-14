@@ -1,5 +1,29 @@
-# World_Happiness_Index Data Analysis And Visualization Task
-## Summary :
-For This Data Analysis Task. We Were Provided With Datasets Of Six Years From(2015-2020) Of World Happiness Index Data and Our Task Is To Clean & Analyze These Datasets and Then Visualize By Making A Dashboard In Python Using Plotly Dash To Find Meaningful Insights From This Data.
-So Before Visualizing These Datasets It Needs To Be Cleaned First. First I cleaned All the Individual Datasets Of Each Year From 2015-2020 And Then Merged All The Cleaned Daasets
-To One Final Dataset. I Have Also Created Some Additional Columns Based On The Given Data That Can Help In Deriving Useful Insights From These Datasets And Then Export The Final Dataset Into a CSV File And Then Use A Separate Notebook To Visualize The Data (As The Size Of Notebook Is Quite Large).
+<h2>😊 World Happiness Index: Data Analysis & Visualization</h2>
+
+<h3>📌 Project Summary</h3>
+<p>
+This project focuses on analyzing and visualizing the World Happiness Index datasets from <b>2015 to 2020</b>. 
+The goal was to clean, combine, and explore the data to extract meaningful insights, followed by creating an interactive dashboard using <b>Plotly Dash</b> in Python.
+</p>
+
+<h3>🧹 Data Preparation</h3>
+<ul>
+  <li>Cleaned individual datasets for each year, addressing missing values, inconsistent column names, and unnecessary data.</li>
+  <li>Merged all cleaned datasets into a single consolidated DataFrame for unified analysis.</li>
+  <li>Created additional derived columns to enhance the depth of analysis.</li>
+  <li>Exported the final dataset into a CSV file for use in the visualization phase.</li>
+</ul>
+
+<h3>📊 Data Visualization</h3>
+<ul>
+  <li>Developed an interactive dashboard using <b>Plotly Dash</b> to visualize happiness trends across countries and years.</li>
+  <li>Explored correlations between factors such as GDP, social support, life expectancy, freedom, generosity, and perceptions of corruption.</li>
+  <li>Uncovered patterns in happiness scores by region and year to better understand global well-being trends.</li>
+</ul>
+
+<h3>💡 Key Objectives</h3>
+<ul>
+  <li>Perform comprehensive EDA across multiple years of global happiness data.</li>
+  <li>Understand what factors influence a country’s happiness ranking.</li>
+  <li>Build a clean and interactive dashboard for data-driven storytelling.</li>
+</ul>
