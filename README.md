@@ -14,7 +14,9 @@ The goal was to clean, combine, and explore the data to extract meaningful insig
   <li>Exported the final dataset into a CSV file for use in the visualization phase.</li>
 </ul>
 
-<h3>📊 Data Visualization</h3>
+<h3>📊 Data Visualization</h3> 
+
+[▶️ Watch the Demo](./Demo/)
 <ul>
   <li>Developed an interactive dashboard using <b>Plotly Dash</b> to visualize happiness trends across countries and years.</li>
   <li>Explored correlations between factors such as GDP, social support, life expectancy, freedom, generosity, and perceptions of corruption.</li>
